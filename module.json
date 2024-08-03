@@ -2,10 +2,9 @@
   "id": "reclaim-the-wild-core-utils",
   "title": "Reclaim the Wild Core Utils",
   "version": "0.0.2",
-	"manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -33,10 +32,8 @@
     }
   ],
   "url": "https://github.com/Daverd-GM/Reclaim-the-Wild-Core-Utils",
-	"manifest": "https://github.com/Daverd-GM/Reclaim-the-Wild-Core-Utils/releases/latest/download/module.json",
-	"download": "https://github.com/Daverd-GM/Reclaim-the-Wild-Core-Utils/releases/latest/download/module.zip",
-	"license": "LICENSE",
-	"readme": "README.md",
+  "license": "LICENSE",
+  "readme": "README.md",
   "media": [
     {
       "type": "icon",
